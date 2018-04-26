@@ -31,4 +31,3 @@ printf_format1 \| Mem "${Mem_total}M" "${Mem_used}M" "${Mem_idle}%"
 printf_format1 \| Swap "${Swap_total}M" "${Swap_used}M" "${Swap_idle}%"
 printf_format1 \| \/ "${Disk_root_total}" "${Disk_root_used}" "${Disk_root_idle}%"
 printf_format1 + ------------ ------------ -------- --------
-#######################
